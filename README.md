@@ -3,10 +3,8 @@
   <img alt="Top Langs" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marstach-svg&layout=donut&show_icons=true&theme=tokyonight" />
   <img alt="github stats" height="200px" src="https://github-readme-stats.vercel.app/api?username=Marstach-svg&layout=donut&theme=tokyonight&show_icons=ture" />
 </p>
-
 <p align="center">
-[![trophy](https://github-profile-trophy.vercel.app/?username=Marstach-svg&theme=onedark&column=7
-)](https://github.com/ryo-ma/github-profile-trophy)
+<img alt="trophy" height="150px" src="https://github-profile-trophy.vercel.app/?username=Marstach-svg&theme=onedark" />
 </p>
 <!--
 **Marstach-svg/Marstach-svg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
