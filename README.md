@@ -1,7 +1,7 @@
 ## Hi there 👋
-<p align="left"> 
-  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marstach-svg&layout=donut&show_icons=true&theme=tokyonight" />
-  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=Marstach-svg&layout=donut&theme=tokyonight&show_icons=ture" />
+<p align="center"> 
+  <img alt="Top Langs" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marstach-svg&layout=donut&show_icons=true&theme=tokyonight" />
+  <img alt="github stats" height="200px" src="https://github-readme-stats.vercel.app/api?username=Marstach-svg&layout=donut&theme=tokyonight&show_icons=ture" />
 </p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Marstach-svg&theme=onedark&column=7
