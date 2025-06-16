@@ -77,4 +77,8 @@
     <img src="img/gopher/gopher-dance.gif" width="150" alt="Dancing Gopher" />
     <img src="img/gopher/ninja.gif" width="150" alt="Ninja Gopher" />
   </div> -->
+
+  <div align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=Marstach-svg&theme=onedark" alt="GitHub Trophies" />
+  </div>
 </p>
