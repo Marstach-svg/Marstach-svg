@@ -46,15 +46,35 @@
 </td></tr></table>  
 
 <br/>  
-<div align="center">
-    <img alt="graph" height="300px" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Marstach-svg&theme=2077" />
-</div>
 
-<div align="center">
-  <img alt="Top Langs" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marstach-svg&layout=donut&show_icons=true&theme=tokyonight" />
-  <img alt="github stats" height="200px" src="https://github-readme-stats.vercel.app/api?username=Marstach-svg&layout=donut&theme=tokyonight&show_icons=ture" />
-</div>
+## Activities
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Marstach-svg&theme=tokyo-night&custom_title=Contribution%20Graph%20in%20the%20last%2031%20days"
+    alt="GitHub Activity Graph"
+  />
 
-<div align="center">
-  <img alt="trophy" height="150px" src="https://github-profile-trophy.vercel.app/?username=Marstach-svg&theme=onedark" />
-</div>
+  <!-- 右側 (Metrics) -->
+  <a href="https://github.com/lowlighter/metrics">
+    <img width="425" align="right" src="/github-metrics.svg" />
+  </a>
+
+  <!-- 左側 (GitHub Stats + Streak) -->
+  <a href="https://github-readme-stats.vercel.app/api?username=Marstach-svg&theme=tokyonight&layout=compact">
+  <img width="380" align="left" src="https://github-readme-stats.vercel.app/api?username=Marstach-svg&theme=tokyonight&layout=compact" />
+　</a>
+
+  <a href="https://git.io/streak-stats">
+    <img width="380" align="left" src="https://streak-stats.demolab.com?user=Marstach-svg&theme=taiga&border_radius=4.3" />
+  </a>
+
+  <!-- Recent My Work  -->
+  <!--<a href="https://next.ossinsight.io/widgets/official/compose-currently-working-on?activity_type=all&user_id=164746053" target="_blank">
+    <img src="https://next.ossinsight.io/widgets/official/compose-currently-working-on/thumbnail.png?activity_type=all&user_id=164746053&image_size=auto&color_scheme=dark" width="380" align="left height="auto" alt="@anton-fuji's Recent Work - Last 28 days">
+  </a> -->
+  <!-- Gopher-->
+  <!--<div align="left" style="margin-left: 80px; margin-top: 10px;">
+    <img src="img/gopher/gopher-dance.gif" width="150" alt="Dancing Gopher" />
+    <img src="img/gopher/ninja.gif" width="150" alt="Ninja Gopher" />
+  </div> -->
+</p>
