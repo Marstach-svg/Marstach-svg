@@ -1,6 +1,6 @@
-<div>
-  <img src="https://readme-typing-svg.demolab.com/?lines=Welcome+to+My+GitHub;I'm+ryoken+👋" />
-</div>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=32&pause=1000&color=79F73F&width=435&lines=Welcome+to+My+GitHub;I'm+ryoken+%F0%9F%91%8B" alt="Typing SVG" />
+</a>
 
 <div align="center">
   <img src="https://github.com/Marstach-svg/Marstach-svg/blob/main/img/github-user-contribution.svg" />
