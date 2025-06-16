@@ -55,9 +55,9 @@
   />
 
   <!-- 右側 (Metrics) -->
-  <a href="https://github.com/lowlighter/metrics">
+  <!--<a href="https://github.com/lowlighter/metrics">
     <img width="425" align="right" src="/github-metrics.svg" />
-  </a>
+  </a> -->
 
   <!-- 左側 (GitHub Stats + Streak) -->
   <a href="https://github-readme-stats.vercel.app/api?username=Marstach-svg&theme=tokyonight&layout=compact">
