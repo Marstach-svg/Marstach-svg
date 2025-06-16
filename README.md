@@ -1,5 +1,5 @@
 <div>
-  <img src="https://raw.githubusercontent.com/Marstach-svg/Marstach-svg/blob/main/img/github-user-contribution.svg" />
+  <img src="https://github.com/Marstach-svg/Marstach-svg/blob/main/img/github-user-contribution.svg" />
 </div>
 
 
