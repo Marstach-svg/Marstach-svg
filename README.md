@@ -1,4 +1,8 @@
 <div>
+  <h1>Hi there</h1>
+</div>
+
+<div align="center">
   <img src="https://github.com/Marstach-svg/Marstach-svg/blob/main/img/github-user-contribution.svg" />
 </div>
 
