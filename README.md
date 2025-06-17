@@ -57,37 +57,35 @@
 <br/>  
 
 ## Activities
+<!-- グラフはセンターでOK -->
 <p align="center">
   <img
     src="https://github-readme-activity-graph.vercel.app/graph?username=Marstach-svg&theme=tokyo-night&custom_title=Contribution%20Graph%20in%20the%20last%2031%20days"
     alt="GitHub Activity Graph"
   />
+</p>
 
-  <!-- 右側 (Metrics) -->
-  <!--<a href="https://github.com/lowlighter/metrics">
-    <img width="425" align="right" src="/github-metrics.svg" />
-  </a> -->
+<!-- 左: Stats+Streak（縦）　右: Metrics -->
+<table align="center">
+  <tr>
+    <!-- 左側 -->
+    <td valign="top" width="50%" align="center">
+      <a href="https://github-readme-stats.vercel.app/api?username=Marstach-svg&theme=onewhite&layout=compact">
+        <img width="380" src="https://github-readme-stats.vercel.app/api?username=Marstach-svg&theme=onewhite&layout=compact" />
+      </a><br/>
+      <a href="https://git.io/streak-stats">
+        <img width="380" src="https://streak-stats.demolab.com?user=Marstach-svg&theme=tokyonight&border_radius=4.3" />
+      </a>
+    </td>
+    <td valign="top" align="right" width="50%">
+      <a href="https://github.com/lowlighter/metrics">
+        <img src="https://github.com/Marstach-svg/Marstach-svg/blob/main/output/metrics.base.svg" />
+      </a>
+    </td>
+  </tr>
+</table>
 
-  <!-- 左側 (GitHub Stats + Streak) -->
-  <a href="https://github-readme-stats.vercel.app/api?username=Marstach-svg&theme=tokyonight&layout=compact">
-  <img width="380" align="left" src="https://github-readme-stats.vercel.app/api?username=Marstach-svg&theme=tokyonight&layout=compact" />
-　</a>
-
-  <a href="https://git.io/streak-stats">
-    <img width="380" align="left" src="https://streak-stats.demolab.com?user=Marstach-svg&theme=taiga&border_radius=4.3" />
-  </a>
-
-  <!-- Recent My Work  -->
-  <!--<a href="https://next.ossinsight.io/widgets/official/compose-currently-working-on?activity_type=all&user_id=164746053" target="_blank">
-    <img src="https://next.ossinsight.io/widgets/official/compose-currently-working-on/thumbnail.png?activity_type=all&user_id=164746053&image_size=auto&color_scheme=dark" width="380" align="left height="auto" alt="@anton-fuji's Recent Work - Last 28 days">
-  </a> -->
-  <!-- Gopher-->
-  <!--<div align="left" style="margin-left: 80px; margin-top: 10px;">
-    <img src="img/gopher/gopher-dance.gif" width="150" alt="Dancing Gopher" />
-    <img src="img/gopher/ninja.gif" width="150" alt="Ninja Gopher" />
-  </div> -->
-
-  <div align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=Marstach-svg&theme=flat" alt="GitHub Trophies" />
-  </div>
+<!-- トロフィーは中央 -->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Marstach-svg&theme=flat" alt="GitHub Trophies" />
 </p>
