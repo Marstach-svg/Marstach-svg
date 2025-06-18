@@ -6,22 +6,31 @@ on:
   workflow_dispatch:
 
 permissions:
-  contents: write
+  contents: write  # mainブランチにpushするので必要
 
 jobs:
   generate:
     runs-on: ubuntu-latest
+
     steps:
-      - uses: Platane/snk@v3
+      - name: Checkout main branch
+        uses: actions/checkout@v3
+        with:
+          ref: main
+
+      - name: Generate Snake SVG
+        uses: Platane/snk@v3
         with:
           github_user_name: Marstach-svg
           outputs: |
-            dist/github-contribution-grid-snake.svg
+            img/github-user-contribution.svg
 
-      - name: Push snake svg to the output branch
-        uses: crazy-max/ghaction-github-pages@v3
-        with:
-          target_branch: output
-          build_dir: dist
+      - name: Commit and push
+        run: |
+          git config --global user.name "github-actions"
+          git config --global user.email "github-actions@github.com"
+          git add img/github-user-contribution.svg
+          git commit -m "update snake contribution graph" || echo "No changes to commit"
+          git push origin main
         env:
-          token: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
