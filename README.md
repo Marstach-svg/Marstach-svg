@@ -14,7 +14,7 @@
 ## My Skill Set  
 <p align="center">
   <a href="https://skillicons.dev" target="_blank" rel="noopener noreferrer" >
-    <img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=python,django,flask,typescript,react,tailwind,vite,bun,docker,linux,git,gcp" />
+    <img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=python,django,flask,javascript,typescript,react,tailwind,vite,bun,docker,linux,git,gcp" />
   </a>
 </p>
 
