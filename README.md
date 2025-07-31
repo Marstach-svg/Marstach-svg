@@ -23,7 +23,10 @@
 ## Activities
 <!-- グラフはセンターでOK -->
 <p align="center">
-
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Marstach-svg&theme=tokyo-night&custom_title=Contribution%20Graph%20in%20the%20last%2031%20days"
+    alt="GitHub Activity Graph"
+  />
 </p>
 
 <!-- 左: Stats+Streak（縦）　右: Metrics -->
